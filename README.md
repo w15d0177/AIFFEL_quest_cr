@@ -1,5 +1,3 @@
-# AIFFEL_quest_cr
-
 # AIFFEL Quest Repository
 
 이 레포지토리는 AIFFEL 교육 과정에서 제공된 퀘스트들을 담고 있습니다. 각 퀘스트는 특정한 학습 목표를 달성하기 위해 설계되었으며, 네 개의 주요 파트 (MainQuest, Python, Flutter, Exploration)로 구성되어 있습니다.
