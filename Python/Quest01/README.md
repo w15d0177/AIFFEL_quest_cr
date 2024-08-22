@@ -21,7 +21,7 @@
           
 ![image](https://github.com/user-attachments/assets/531665eb-4e79-49b3-a656-865fac282a27)
 
-![image](https://github.com/user-attachments/assets/f3bb2244-6780-46d6-b91b-78dc7f638b1f)
+![image](https://github.com/user-attachments/assets/c28abf5f-eabd-4d92-b4ac-4c961afdd7f1)
 
         
 - [v]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
