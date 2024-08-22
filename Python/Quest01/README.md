@@ -19,9 +19,9 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
           
-![image](https://github.com/user-attachments/assets/638eeb94-4bc8-4279-ad7f-fa2bac77810a)
+![image](https://github.com/user-attachments/assets/531665eb-4e79-49b3-a656-865fac282a27)
 
-![image](https://github.com/user-attachments/assets/946c2979-f692-4375-b698-94ca0de58949)
+![image](https://github.com/user-attachments/assets/f3bb2244-6780-46d6-b91b-78dc7f638b1f)
 
         
 - [v]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
