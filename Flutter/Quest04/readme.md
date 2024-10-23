@@ -39,7 +39,7 @@
 ## 페이지 구현 ## 
 
 1. screen_1.dart - 로그인 화면
-2. screen_2.dart - hub 역할을 하는 home
+2. screen_2_hub.dart - hub 역할을 하는 home
 3. screen_3.dart - video 화면
 4. screen_4.dart - friends 화면
 5. screen_5.dart - profile 화면
